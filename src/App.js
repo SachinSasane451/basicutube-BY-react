@@ -1,5 +1,4 @@
 import './App.css';
-import Student from './components/Student';
 import Youtube from './components/youtube/Youtube';
 
 function App() {
